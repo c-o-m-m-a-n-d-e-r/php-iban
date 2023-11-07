@@ -28,7 +28,7 @@
     "ext-gd": "*",
     "ixnode/php-exception": "^0.1",
     "adhocore/cli": "^v1.0.0",
-    "ixnode/php-cli-image": "^0.1",
+    //"ixnode/php-cli-image": "^0.1",
     "ixnode/php-timezone": "^0.1"
   },
   "require-dev": {
